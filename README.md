@@ -26,5 +26,5 @@ I'm an ambitious developer who loves solving problems with coding.
 
 
 ## 🛠 Skills
-Html, Css , Bootstrap, Javascript, Node js, Nest js, Php.
+Html, Css , Bootstrap, Javascript,Typescript, Node js, Nest js, Php.
 
