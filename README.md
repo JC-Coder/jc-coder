@@ -12,7 +12,6 @@ I'm an ambitious developer who loves solving problems with coding.
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jc_coder1)
 
 ## More About Me
-👩‍💻 I'm currently working on Book store application (https://github.com/JC-Coder/book-store-app-nestjs)
 
 🧠 I'm currently learning Node js
 
