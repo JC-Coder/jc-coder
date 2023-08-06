@@ -1,29 +1,34 @@
-# Hi, I'm Joseph(Jc coder)! 👋
+<!-- Your GitHub Profile README -->
 
+# Hello, I'm Joseph (Jc coder)! 👋
 
 ## 🚀 About Me
-
-I'm an ambitious developer who loves solving problems with coding.
-
-
+I'm a passionate backend developer with a strong focus on building scalable and robust server-side applications. My mission is to create efficient and secure solutions that power the digital world.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jc-coder.vercel.app/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jc_coder1)
+- [Portfolio](https://jc-coder.vercel.app) - Explore my projects.
+- [LinkedIn](https://www.linkedin.com/in/joseph-chimezie-19504325a) - Connect with me on LinkedIn for professional networking.
+- [Email](mailto:josephchimezie2003@gmail.com) - Drop me an email for inquiries and collaborations.
 
-## More About Me
+## 💡 More About Me
+- 🧠 Currently, I'm diving deep into Node.js (ExpressJs and NestJs), leveraging their full potential to develop high-performance APIs and microservices.
+- 👯‍♀️ I'm enthusiastic about collaborating on backend projects, whether it's optimizing existing systems or architecting new ones from scratch.
+- 💬 Feel free to ask me anything related to backend development, databases, API design, or server infrastructure. I love sharing knowledge and discussing tech concepts.
+- 🎯 My ultimate goal is to contribute to the backbone of digital infrastructure, making a significant impact on the world through reliable backend solutions.
 
-🧠 I'm currently learning Node js
+## ⚡️ A Bit of Fun
+- 📚 I enjoy diving into backend-related books and tech blogs to stay updated with the latest industry trends and best practices.
+- 🎮 In my free time, I like to relax by playing strategy games and sharpening my analytical skills.
 
-👯‍♀️ I'm looking to collaborate on Open source projects
+## 🛠 Backend Skills
+- **Languages**: JavaScript (ES6+), TypeScript
+- **Frameworks**: Express.js, Nest.js
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **RESTful APIs**: API design, documentation, versioning
+- **Testing**: Jest, Mocha, Supertest
+- **DevOps & Tools**: Git, Docker, Nginx, AWS
+- **Server Deployment**: Heroku, Vercel, Digital Ocean
 
-💬 Ask me about Web development
-
-📫 You can reach me out via my portfolio or twitter page
-
-⚡️ Code Addict 😄 
-
-
-## 🛠 Skills
-Html, Css , Bootstrap, Javascript,Typescript, Node js, Nest js, Php.
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jc-coder&show_icons=true&hide=prs&theme=radical)
 
