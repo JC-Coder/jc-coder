@@ -29,6 +29,29 @@ I'm a passionate backend developer with a strong focus on building scalable and 
 - **DevOps & Tools**: Git, Docker, Nginx, AWS
 - **Server Deployment**: Heroku, Vercel, Digital Ocean
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jc-coder&show_icons=true&hide=prs&theme=radical)
+## 🏆 Github Trophy
+  
+<a href="https://jc-coder.vercel.app">
+<img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=jc-coder&theme=gruvbox">
+</a>
+
+## 📊 More Stats
+  ![](https://komarev.com/ghpvc/?username=jc-coder&color=green) <br />
+**Github Stats**
+  
+  <a href="https://jc-coder.vercel.app">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jc-coder&show_icons=true" />
+</a>  
+  
+## Most Used Languages
+  
+ <a href="https://jc-coder.vercel.app">
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jc-coder&langs_count=5&theme=tokyonight">
+</a>
+
+## Streak Stats
+
+<a href="https://jc-coder.vercel.app">
+<img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=jc-coder&theme=dark">
+</a>
 
