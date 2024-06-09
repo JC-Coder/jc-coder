@@ -1,33 +1,47 @@
-<!-- Your GitHub Profile README -->
+# 👋 Hello, I'm Joseph (JC Coder)!
 
-# Hello, I'm Joseph (Jc coder)! 👋
+## 🚀 Software Engineer
 
-## 🚀 About Me
-I'm a passionate backend developer with a strong focus on building scalable and robust server-side applications. My mission is to create efficient and secure solutions that power the digital world.
+I'm a Software Engineer with a proven track record of building scalable, secure, and high-performance server-side applications. With expertise in Node.js, Express.js, and Nest.js, I specialize in crafting efficient and robust APIs and microservices that power the digital landscape.
 
-## 🔗 Links
-- [Portfolio](https://jc-coder.vercel.app) - Explore my projects.
-- [LinkedIn](https://www.linkedin.com/in/joseph-chimezie-19504325a) - Connect with me on LinkedIn for professional networking.
-- [Email](mailto:josephchimezie2003@gmail.com) - Drop me an email for inquiries and collaborations.
+I've taken part in various open-source projects and have contributed to multiple repositories. My contributions have been recognized by the community, and I strive to make a positive impact through my work.
 
-## 💡 More About Me
-- 🧠 Currently, I'm diving deep into Node.js (ExpressJs and NestJs), leveraging their full potential to develop high-performance APIs and microservices.
-- 👯‍♀️ I'm enthusiastic about collaborating on backend projects, whether it's optimizing existing systems or architecting new ones from scratch.
-- 💬 Feel free to ask me anything related to backend development, databases, API design, or server infrastructure. I love sharing knowledge and discussing tech concepts.
-- 🎯 My ultimate goal is to contribute to the backbone of digital infrastructure, making a significant impact on the world through reliable backend solutions.
+* ✉️  You can contact me at [josephchimezie2003@gmail.com](mailto:josephchimezie2003@gmail.com)
+* 🚀  I'm currently working on building scalable backend systems
+* 🧠  I'm expanding my knowledge in software architecture, design patterns, and cloud technologies
+* 🤝  I'm open to collaborating on backend projects, microservices, and APIs
+* ⚡  Ask me about Node.js, Express.js, Nest.js, MongoDB, PostgreSQL, and RESTful API design
 
-## ⚡️ A Bit of Fun
-- 📚 I enjoy diving into backend-related books and tech blogs to stay updated with the latest industry trends and best practices.
-- 🎮 In my free time, I like to relax by playing strategy games and sharpening my analytical skills.
+<a href="https://x.com/jc_coder1" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/jc_coder1?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
+/></a>
+<a href="https://www.github.com/JC-Coder" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/JC-Coder?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 
-## 🛠 Backend Skills
-- **Languages**: JavaScript (ES6+), TypeScript
-- **Frameworks**: Express.js, Nest.js
-- **Databases**: MongoDB, PostgreSQL, MySQL
-- **RESTful APIs**: API design, documentation, versioning
-- **Testing**: Jest, Mocha, Supertest
-- **DevOps & Tools**: Git, Docker, Nginx, AWS
-- **Server Deployment**: Heroku, Vercel, Digital Ocean
+### 🛠️ Technical Skills
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+
+### 🌟 OpenSource Projectss
+
+- [Startease CLI](https://www.npmjs.com/package/startease-cli) - A command-line tool to quickly set up and manage Node.js projects
+- [OpenHive Backend](https://github.com/IDAN-DEVS/openhive-backend) - A directory website to help developers find and showcase projects
+
+### 🔗 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/joseph-chimezie-19504325a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.github.com/JC-Coder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+  <a href="https://www.twitter.com/your_twitter_handle" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 
 ## 🏆 Github Trophy
   
@@ -35,23 +49,15 @@ I'm a passionate backend developer with a strong focus on building scalable and 
 <img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=jc-coder&theme=gruvbox">
 </a>
 
-## 📊 More Stats
+## 📊 Profile views
   ![](https://komarev.com/ghpvc/?username=jc-coder&color=green) <br />
-**Github Stats**
   
-  <a href="https://jc-coder.vercel.app">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jc-coder&show_icons=true" />
-</a>  
-  
-## Most Used Languages
-  
- <a href="https://jc-coder.vercel.app">
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jc-coder&langs_count=5&theme=tokyonight">
-</a>
+### 📊 GitHub Stats
+
+<a href="https://github.com/JC-Coder"><img src="https://github-readme-stats.vercel.app/api?username=JC-Coder&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="JC-Coder's GitHub stats" /></a>
 
 ## Streak Stats
 
 <a href="https://jc-coder.vercel.app">
 <img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=jc-coder&theme=dark">
 </a>
-
