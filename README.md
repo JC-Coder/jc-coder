@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Joseph (JC Coder)!
+# 👋 Hello, I'm Justice Agboma (JC Coder)!
 
 ## 🚀 Software Engineer
 
@@ -6,7 +6,7 @@ I'm a Software Engineer with a proven track record of building scalable, secure,
 
 I've taken part in various open-source projects and have contributed to multiple repositories. My contributions have been recognized by the community, and I strive to make a positive impact through my work.
 
-* ✉️  You can contact me at [josephchimezie2003@gmail.com](mailto:josephchimezie2003@gmail.com)
+* ✉️  You can contact me at [justiceyba@gmail.com](mailto:justiceyba@gmail.com)
 * 🚀  I'm currently working on building scalable backend systems
 * 🧠  I'm expanding my knowledge in software architecture, design patterns, and cloud technologies
 * 🤝  I'm open to collaborating on backend projects, microservices, and APIs
