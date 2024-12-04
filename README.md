@@ -12,11 +12,11 @@ I've taken part in various open-source projects and have contributed to multiple
 * 🤝  I'm open to collaborating on backend projects, microservices, and APIs
 * ⚡  Ask me about Node.js, Express.js, Nest.js, MongoDB, PostgreSQL, and RESTful API design
 
-<a href="https://x.com/jc_coder1" target="_blank" rel="noreferrer"><img
+<!-- <a href="https://x.com/jc_coder1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/jc_coder1?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
 /></a>
 <a href="https://www.github.com/JC-Coder" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JC-Coder?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
+src="https://img.shields.io/github/followers/JC-Coder?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a> -->
 
 ### 🛠️ Technical Skills
 
