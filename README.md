@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Justice Agboma (JC Coder)!
+# 👋 Hello, I'm Joseph (JC Coder)!
 
 ## 🚀 Software Engineer
 
@@ -6,17 +6,17 @@ I'm a Software Engineer with a proven track record of building scalable, secure,
 
 I've taken part in various open-source projects and have contributed to multiple repositories. My contributions have been recognized by the community, and I strive to make a positive impact through my work.
 
-* ✉️  You can contact me at [justiceyba@gmail.com](mailto:justiceyba@gmail.com)
+* ✉️  You can contact me at [josephchimezie2003@gmail.com](mailto:josephchimezie2003@gmail.com)
 * 🚀  I'm currently working on building scalable backend systems
 * 🧠  I'm expanding my knowledge in software architecture, design patterns, and cloud technologies
 * 🤝  I'm open to collaborating on backend projects, microservices, and APIs
 * ⚡  Ask me about Node.js, Express.js, Nest.js, MongoDB, PostgreSQL, and RESTful API design
 
-<!-- <a href="https://x.com/jc_coder1" target="_blank" rel="noreferrer"><img
+<a href="https://x.com/jc_coder1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/jc_coder1?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
 /></a>
 <a href="https://www.github.com/JC-Coder" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JC-Coder?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a> -->
+src="https://img.shields.io/github/followers/JC-Coder?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 
 ### 🛠️ Technical Skills
 
@@ -36,13 +36,13 @@ src="https://img.shields.io/github/followers/JC-Coder?logo=github&style=for-the-
 - [OpenHive Backend](https://github.com/IDAN-DEVS/openhive-backend) - A directory website to help developers find and showcase projects
 
 ### 🔗 Let's Connect
-<!--
+
 <p align="left">
   <a href="https://www.linkedin.com/in/joseph-chimezie-19504325a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.github.com/JC-Coder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
   <a href="https://www.twitter.com/your_twitter_handle" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
--->
+
 ## 🏆 Github Trophy
   
 <a href="https://jc-coder.vercel.app">
