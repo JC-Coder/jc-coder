@@ -58,6 +58,4 @@ src="https://img.shields.io/github/followers/JC-Coder?logo=github&style=for-the-
 
 ## Streak Stats
 
-<a href="https://jc-coder.vercel.app">
-<img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=jc-coder&theme=dark">
-</a>
+<img alt="My github streak, reload to view" src="https://github-readme-streak-stats.herokuapp.com/?user=jc-coder&theme=dark">
