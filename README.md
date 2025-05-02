@@ -1,42 +1,71 @@
-# Joseph Chimezie (JC Coder)
-
-**Backend Engineer | API Specialist | Open Source Enthusiast | Dev Support Engineer**
 
 ---
 
-## About Me
+# 👨‍💻 HI, I'M JC CODER
 
-I'm a results-oriented backend engineer with a focus on building scalable, secure, and high-performance APIs and microservices. My expertise lies in Node.js, TypeScript, Express.js, and Nest.js, and I thrive on architecting robust server-side solutions that power real-world applications.
+**Software Engineer (Backend Heavy) | API Specialist | DevOps Engr | Web3 Builder | Dev Support**
 
-I love collaborating on open-source projects, sharing knowledge, and contributing to the developer community. My work is driven by a commitment to clean code, best practices, and continuous learning in software architecture and cloud technologies.
-
----
-
-## Core Skills
-
-- **Languages:** TypeScript, JavaScript
-- **Frameworks:** Node.js, Express.js, Nest.js
-- **Databases:** MongoDB, PostgreSQL
-- **DevOps:** Docker, AWS
-- **API Design:** RESTful APIs, Microservices
+> *“I’m that dev every team doesn’t know they need… until I’m in.”*
 
 ---
 
-## Featured Open Source Projects
+## 🚀 About Me
 
-- [**Startease CLI**](https://www.npmjs.com/package/startease-cli): Command-line tool for rapid Node.js project setup and management.
-- [**OpenHive Backend**](https://github.com/IDAN-DEVS/openhive-backend): API backend for a developer project directory and showcase platform.
-- [**Portify**](https://github.com/IDAN-DEVS/portify): Open-source portfolio generator built with Next.js.
+I'm a software engineer with a knack for turning complex systems into seamless solutions. From mission-critical infrastructure to lightning-fast APIs, I specialize in building scalable, resilient, and production-ready applications that just work—even at scale.
+
+I've handled (and am still handling) **20+ servers**, powering **apps with 40,000+ users**, managing **high-load backends**, building **Telegram bots**, deploying **Web3 applications**, and ensuring uptime under pressure.
+
+I thrive on:
+
+* Building clean and testable APIs
+* Architecting applications that scale
+* Owning DevOps pipelines like second nature
+* Supporting developers and helping teams ship faster
+* Making backend code elegant, not just functional
+
+Whether it’s open source or production-grade SaaS, I bring precision, reliability, and that extra fire that makes things click.
 
 ---
 
-## Let's Connect
+## 🧠 Core Tech Stack
 
-- [GitHub](https://github.com/JC-Coder)
-- [LinkedIn](https://www.linkedin.com/in/joseph-jc-coder-19504325a)
-- [X (Twitter)](https://x.com/jc_coder1)
-- [Email](mailto:josephchimezie2003@gmail.com)
+* **Languages:** TypeScript, JavaScript
+* **Frameworks:** Node.js, NestJS, Express.js, Hono.js, React.Js, Next.Js
+* **Databases:** PostgreSQL, MongoDB, MySQL
+* **Infrastructure:** Docker, AWS, NGINX, PM2, Digital Ocean, Cloudflare
+* **Web3:** Smart contract integration, Alchemy, ethers.js
+* **Bots & Automation:** Telegram / Discord / Whatsapp - Bots
+* **Monitoring:** Linux server logs, uptime monitoring, failover systems
 
 ---
 
-*Always open to collaborating on projects, APIs, and open-source initiatives!*
+## 🔧 Some Highlights
+
+* 🔌 **Handled over 20+ Linux servers** for high-availability apps
+* 👥 **Built systems serving 40,000+ active users**
+* 🤖 **Automated Telegram bots and background jobs**
+* 🧱 **Worked on Web3 dApps** with smart contract interactions
+* 🛠️ **Dev Support**: Helping other devs ship confidently and solve production issues fast
+
+---
+
+## 🌍 Featured Open Source Projects
+
+* 🛠️ [**Startease CLI**](https://www.npmjs.com/package/startease-cli) – Kickstart Any project in seconds
+* 🔗 [**OpenHive Backend**](https://github.com/IDAN-DEVS/openhive-backend) – API for showcasing devs and projects
+* 🌐 [**Portify**](https://github.com/IDAN-DEVS/portify) – Open-source portfolio generator (Next.js)
+
+---
+
+## 📡 Let's Connect
+
+* 🔗 [GitHub](https://github.com/JC-Coder)
+* 💼 [LinkedIn](https://www.linkedin.com/in/joseph-jc-coder-19504325a)
+* 🐦 [X (Twitter)](https://x.com/jc_coder1)
+* 📬 [Email](mailto:josephchimezie2003@gmail.com)
+
+---
+
+*Always open to building, solving, and scaling—especially with other devs who love clean architecture and getting things done.* ✨
+
+---
